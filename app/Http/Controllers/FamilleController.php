@@ -12,7 +12,9 @@ class FamilleController extends Controller
      */
     public function index()
     {
-        //
+        return view('famille.index', [
+            'familles' => Famille::all()
+        ]);
     }
 
     /**
@@ -34,9 +36,23 @@ class FamilleController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Famille $famille)
+    public function show($libelle)
     {
-        //
+        $famille = Famille::where('libelle', $libelle)->firstOrFail();
+
+        $sousFamilles = $famille->sousFamilles;
+
+        // foreach ($sousFamilles as $sousFamille) {
+        //     $prod = Famille::where('libelle', $sousFamille->libelle)->firstOrFail();
+
+        //     dump($prod);
+        // }
+
+        // dd('gg');
+
+        return view('famille.show', [
+            'sousFamilles' => $sousFamilles
+        ]);
     }
 
     /**

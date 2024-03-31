@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\FamilleController;
 use App\Http\Controllers\ProfileController;
+use App\Models\Famille;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,9 +16,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-})->name('index');
+Route::get('/', [FamilleController::class, 'index'])->name('famille.index');
+
+Route::get('{libelle}', [FamilleController::class, 'show'])->name('famille.show');
+
+
+Route::get('/contact', function () {
+    return view('contact');
+})->name('contact');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
