@@ -4,19 +4,21 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Faker\Factory as Faker;
 use Illuminate\Support\Facades\DB;
 
-class FamilleSeeder extends Seeder
+class ModeReglementSeeder extends Seeder
 {
     /**
      * Run the database seeds.
      */
     public function run(): void
     {
+        $faker = Faker::create();
+
         foreach (range(1, 10) as $index) {
-            DB::table('familles')->insert([
-                'libelle' => fake()->word,
-                'image' => fake()->imageUrl(),
+            DB::table('mode_reglements')->insert([
+                'mode_reglement' => $faker->word,
             ]);
         }
     }
