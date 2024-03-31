@@ -31,8 +31,7 @@
                             <option value="jp">Japan (JPY)</option>
                         </select>
                     </li>
-                    <li><a href="login.html" class="login-link"><i
-                                class="biolife-icon icon-login"></i>Login/Register</a></li>
+                    <li><a href="login.html" class="login-link"><i class="biolife-icon icon-login"></i>Login/Register</a></li>
                 </ul>
             </div>
         </div>
@@ -41,13 +40,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-2 col-md-6 col-xs-6">
-                    <a href="index-2.html" class="biolife-logo"><img src="assets/images/organic-3.png"
-                            alt="biolife logo" width="135" height="34"></a>
+                    <a href="index-2.html" class="biolife-logo"><img src="assets/images/organic-3.png" alt="biolife logo" width="135" height="34"></a>
                 </div>
                 <div class="col-lg-6 col-md-7 hidden-sm hidden-xs">
                     <div class="primary-menu">
-                        <ul class="menu biolife-menu clone-main-menu clone-primary-menu" id="primary-menu"
-                            data-menuname="main menu">
+                        <ul class="menu biolife-menu clone-main-menu clone-primary-menu" id="primary-menu" data-menuname="main menu">
                             <li class="menu-item"><a href="index-2.html">Home</a></li>
                             <li class="menu-item menu-item-has-children has-megamenu">
                                 <a href="#" class="menu-name" data-title="Shop">Shop</a>
@@ -109,8 +106,7 @@
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="#">Omelettes</a></li>
                                     <li class="menu-item"><a href="#">Breakfast Scrambles</a></li>
-                                    <li class="menu-item menu-item-has-children has-child"><a href="#"
-                                            class="menu-name" data-title="Eggs & other considerations">Eggs &
+                                    <li class="menu-item menu-item-has-children has-child"><a href="#" class="menu-name" data-title="Eggs & other considerations">Eggs &
                                             other considerations</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item"><a href="#">Classic Breakfast</a></li>
@@ -125,8 +121,7 @@
                                         </ul>
                                     </li>
                                     <li class="menu-item"><a href="#">Griddle</a></li>
-                                    <li class="menu-item menu-item-has-children has-child"><a href="#"
-                                            class="menu-name" data-title="Sides & Extras">Sides & Extras</a>
+                                    <li class="menu-item menu-item-has-children has-child"><a href="#" class="menu-name" data-title="Sides & Extras">Sides & Extras</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item"><a href="#">Breakfast Burrito</a></li>
                                             <li class="menu-item"><a href="#">Crab Cake Benedict</a></li>
@@ -145,8 +140,7 @@
                                 <a href="#" class="menu-name" data-title="Demo">Demo</a>
                                 <div class="wrap-megamenu lg-width-800 md-width-750">
                                     <div class="mega-content">
-                                        <div
-                                            class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
+                                        <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu">
                                                 <h4 class="menu-title">Home Page</h4>
                                                 <ul class="menu">
@@ -160,36 +154,24 @@
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div
-                                            class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
+                                        <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu">
                                                 <h4 class="menu-title">Inner Pages</h4>
                                                 <ul class="menu">
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="blog-post.html">Blog Single</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="blog-v01.html">Blog Style 01</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="blog-v02.html">Blog Style 02</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="blog-v03.html">Blog Style 03</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="contact.html">Contact Us</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="about-us.html">About Us</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="checkout.html">Checkout</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="shopping-cart.html">Shopping Cart</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="login.html">Login/Register</a></li>
-                                                    <li class="menu-item"><a class="menu-name"
-                                                            href="404.html">404</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="blog-post.html">Blog Single</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="blog-v01.html">Blog Style 01</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="blog-v02.html">Blog Style 02</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="blog-v03.html">Blog Style 03</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="contact.html">Contact Us</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="about-us.html">About Us</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="checkout.html">Checkout</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="shopping-cart.html">Shopping Cart</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="login.html">Login/Register</a></li>
+                                                    <li class="menu-item"><a class="menu-name" href="404.html">404</a></li>
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div
-                                            class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
+                                        <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu">
                                                 <h4 class="menu-title">Category Pages</h4>
                                                 <ul class="menu">
@@ -208,8 +190,7 @@
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div
-                                            class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
+                                        <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu">
                                                 <h4 class="menu-title">Product Types</h4>
                                                 <ul class="menu">
@@ -263,10 +244,7 @@
                                                 <ul class="posts">
                                                     <li>
                                                         <div class="block-post-item">
-                                                            <div class="thumb"><a href="#"><img
-                                                                        src="assets/images/megamenu/thumb-05.jpg"
-                                                                        width="100" height="73"
-                                                                        alt=""></a></div>
+                                                            <div class="thumb"><a href="#"><img src="assets/images/megamenu/thumb-05.jpg" width="100" height="73" alt=""></a></div>
                                                             <div class="left-info">
                                                                 <h4 class="post-name"><a href="#">Ashwagandha:
                                                                         The #1 Herb in
@@ -278,10 +256,7 @@
                                                     </li>
                                                     <li>
                                                         <div class="block-post-item">
-                                                            <div class="thumb"><a href="#"><img
-                                                                        src="assets/images/megamenu/thumb-06.jpg"
-                                                                        width="100" height="73"
-                                                                        alt=""></a></div>
+                                                            <div class="thumb"><a href="#"><img src="assets/images/megamenu/thumb-06.jpg" width="100" height="73" alt=""></a></div>
                                                             <div class="left-info">
                                                                 <h4 class="post-name"><a href="#">Ashwagandha:
                                                                         The #1 Herb in
@@ -293,10 +268,7 @@
                                                     </li>
                                                     <li>
                                                         <div class="block-post-item">
-                                                            <div class="thumb"><a href="#"><img
-                                                                        src="assets/images/megamenu/thumb-07.jpg"
-                                                                        width="100" height="73"
-                                                                        alt=""></a></div>
+                                                            <div class="thumb"><a href="#"><img src="assets/images/megamenu/thumb-07.jpg" width="100" height="73" alt=""></a></div>
                                                             <div class="left-info">
                                                                 <h4 class="post-name"><a href="#">Ashwagandha:
                                                                         The #1 Herb in
@@ -319,14 +291,11 @@
                 <div class="col-lg-3 col-md-3 col-md-6 col-xs-6">
                     <div class="biolife-cart-info">
                         <div class="mobile-search">
-                            <a href="javascript:void(0)" class="open-searchbox"><i
-                                    class="biolife-icon icon-search"></i></a>
+                            <a href="javascript:void(0)" class="open-searchbox"><i class="biolife-icon icon-search"></i></a>
                             <div class="mobile-search-content">
                                 <form action="#" class="form-search" name="mobile-seacrh" method="get">
-                                    <a href="#" class="btn-close"><span
-                                            class="biolife-icon icon-close-menu"></span></a>
-                                    <input type="text" name="s" class="input-text" value=""
-                                        placeholder="Search here...">
+                                    <a href="#" class="btn-close"><span class="biolife-icon icon-close-menu"></span></a>
+                                    <input type="text" name="s" class="input-text" value="" placeholder="Search here...">
                                     <select name="category">
                                         <option value="-1" selected>All Categories</option>
                                         <option value="vegetables">Vegetables</option>
@@ -367,155 +336,110 @@
                                             <li>
                                                 <div class="minicart-item">
                                                     <div class="thumb">
-                                                        <a href="#"><img src="assets/images/minicart/pr-01.jpg"
-                                                                width="90" height="90"
-                                                                alt="National Fresh"></a>
+                                                        <a href="#"><img src="assets/images/minicart/pr-01.jpg" width="90" height="90" alt="National Fresh"></a>
                                                     </div>
                                                     <div class="left-info">
-                                                        <div class="product-title"><a href="#"
-                                                                class="product-name">National Fresh Fruit</a></div>
+                                                        <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id123][qty]">Qty:</label>
-                                                            <input type="number" class="input-qty"
-                                                                name="cart[id123][qty]" id="cart[id123][qty]"
-                                                                value="1" disabled>
+                                                            <input type="number" class="input-qty" name="cart[id123][qty]" id="cart[id123][qty]" value="1" disabled>
                                                         </div>
                                                     </div>
                                                     <div class="action">
-                                                        <a href="#" class="edit"><i class="fa fa-pencil"
-                                                                aria-hidden="true"></i></a>
-                                                        <a href="#" class="remove"><i class="fa fa-trash-o"
-                                                                aria-hidden="true"></i></a>
+                                                        <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                                        <a href="#" class="remove"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="minicart-item">
                                                     <div class="thumb">
-                                                        <a href="#"><img src="assets/images/minicart/pr-02.jpg"
-                                                                width="90" height="90"
-                                                                alt="National Fresh"></a>
+                                                        <a href="#"><img src="assets/images/minicart/pr-02.jpg" width="90" height="90" alt="National Fresh"></a>
                                                     </div>
                                                     <div class="left-info">
-                                                        <div class="product-title"><a href="#"
-                                                                class="product-name">National Fresh Fruit</a></div>
+                                                        <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id124][qty]">Qty:</label>
-                                                            <input type="number" class="input-qty"
-                                                                name="cart[id124][qty]" id="cart[id124][qty]"
-                                                                value="1" disabled>
+                                                            <input type="number" class="input-qty" name="cart[id124][qty]" id="cart[id124][qty]" value="1" disabled>
                                                         </div>
                                                     </div>
                                                     <div class="action">
-                                                        <a href="#" class="edit"><i class="fa fa-pencil"
-                                                                aria-hidden="true"></i></a>
-                                                        <a href="#" class="remove"><i class="fa fa-trash-o"
-                                                                aria-hidden="true"></i></a>
+                                                        <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                                        <a href="#" class="remove"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="minicart-item">
                                                     <div class="thumb">
-                                                        <a href="#"><img src="assets/images/minicart/pr-03.jpg"
-                                                                width="90" height="90"
-                                                                alt="National Fresh"></a>
+                                                        <a href="#"><img src="assets/images/minicart/pr-03.jpg" width="90" height="90" alt="National Fresh"></a>
                                                     </div>
                                                     <div class="left-info">
-                                                        <div class="product-title"><a href="#"
-                                                                class="product-name">National Fresh Fruit</a></div>
+                                                        <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id125][qty]">Qty:</label>
-                                                            <input type="number" class="input-qty"
-                                                                name="cart[id125][qty]" id="cart[id125][qty]"
-                                                                value="1" disabled>
+                                                            <input type="number" class="input-qty" name="cart[id125][qty]" id="cart[id125][qty]" value="1" disabled>
                                                         </div>
                                                     </div>
                                                     <div class="action">
-                                                        <a href="#" class="edit"><i class="fa fa-pencil"
-                                                                aria-hidden="true"></i></a>
-                                                        <a href="#" class="remove"><i class="fa fa-trash-o"
-                                                                aria-hidden="true"></i></a>
+                                                        <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                                        <a href="#" class="remove"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="minicart-item">
                                                     <div class="thumb">
-                                                        <a href="#"><img src="assets/images/minicart/pr-04.jpg"
-                                                                width="90" height="90"
-                                                                alt="National Fresh"></a>
+                                                        <a href="#"><img src="assets/images/minicart/pr-04.jpg" width="90" height="90" alt="National Fresh"></a>
                                                     </div>
                                                     <div class="left-info">
-                                                        <div class="product-title"><a href="#"
-                                                                class="product-name">National Fresh Fruit</a></div>
+                                                        <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id126][qty]">Qty:</label>
-                                                            <input type="number" class="input-qty"
-                                                                name="cart[id126][qty]" id="cart[id126][qty]"
-                                                                value="1" disabled>
+                                                            <input type="number" class="input-qty" name="cart[id126][qty]" id="cart[id126][qty]" value="1" disabled>
                                                         </div>
                                                     </div>
                                                     <div class="action">
-                                                        <a href="#" class="edit"><i class="fa fa-pencil"
-                                                                aria-hidden="true"></i></a>
-                                                        <a href="#" class="remove"><i class="fa fa-trash-o"
-                                                                aria-hidden="true"></i></a>
+                                                        <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                                        <a href="#" class="remove"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="minicart-item">
                                                     <div class="thumb">
-                                                        <a href="#"><img src="assets/images/minicart/pr-05.jpg"
-                                                                width="90" height="90"
-                                                                alt="National Fresh"></a>
+                                                        <a href="#"><img src="assets/images/minicart/pr-05.jpg" width="90" height="90" alt="National Fresh"></a>
                                                     </div>
                                                     <div class="left-info">
-                                                        <div class="product-title"><a href="#"
-                                                                class="product-name">National Fresh Fruit</a></div>
+                                                        <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span
-                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id127][qty]">Qty:</label>
-                                                            <input type="number" class="input-qty"
-                                                                name="cart[id127][qty]" id="cart[id127][qty]"
-                                                                value="1" disabled>
+                                                            <input type="number" class="input-qty" name="cart[id127][qty]" id="cart[id127][qty]" value="1" disabled>
                                                         </div>
                                                     </div>
                                                     <div class="action">
-                                                        <a href="#" class="edit"><i class="fa fa-pencil"
-                                                                aria-hidden="true"></i></a>
-                                                        <a href="#" class="remove"><i class="fa fa-trash-o"
-                                                                aria-hidden="true"></i></a>
+                                                        <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                                        <a href="#" class="remove"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -552,19 +476,16 @@
                                 <span class="line-3"></span>
                             </span>
                             <span class="menu-title">All departments</span>
-                            <span class="angle" data-tgleclass="fa fa-caret-down"><i class="fa fa-caret-up"
-                                    aria-hidden="true"></i></span>
+                            <span class="angle" data-tgleclass="fa fa-caret-down"><i class="fa fa-caret-up" aria-hidden="true"></i></span>
                         </div>
                         <div class="wrap-menu">
                             <ul class="menu clone-main-menu">
                                 <li class="menu-item menu-item-has-children has-megamenu">
-                                    <a href="#" class="menu-name" data-title="Fruit & Nut Gifts"><i
-                                            class="biolife-icon icon-fruits"></i>Fruit & Nut Gifts</a>
+                                    <a href="#" class="menu-name" data-title="Fruit & Nut Gifts"><i class="biolife-icon icon-fruits"></i>Fruit & Nut Gifts</a>
                                     <div class="wrap-megamenu lg-width-900 md-width-640">
                                         <div class="mega-content">
                                             <div class="row">
-                                                <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 xs-margin-bottom-25 md-margin-bottom-0">
+                                                <div class="col-lg-3 col-md-4 col-sm-12 xs-margin-bottom-25 md-margin-bottom-0">
                                                     <div class="wrap-custom-menu vertical-menu">
                                                         <h4 class="menu-title">Fresh Fuits</h4>
                                                         <ul class="menu">
@@ -580,8 +501,7 @@
                                                         </ul>
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 lg-padding-left-23 xs-margin-bottom-25 md-margin-bottom-0">
+                                                <div class="col-lg-3 col-md-4 col-sm-12 lg-padding-left-23 xs-margin-bottom-25 md-margin-bottom-0">
                                                     <div class="wrap-custom-menu vertical-menu">
                                                         <h4 class="menu-title">Nut Gifts</h4>
                                                         <ul class="menu">
@@ -598,32 +518,24 @@
                                                         </ul>
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="col-lg-6 col-md-4 col-sm-12 lg-padding-left-50 xs-margin-bottom-25 md-margin-bottom-0">
+                                                <div class="col-lg-6 col-md-4 col-sm-12 lg-padding-left-50 xs-margin-bottom-25 md-margin-bottom-0">
                                                     <div class="biolife-products-block max-width-270">
                                                         <h4 class="menu-title">Bestseller Products</h4>
-                                                        <ul class="products-list default-product-style biolife-carousel nav-none-after-1k2 nav-center"
-                                                            data-slick='{"rows":1,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":1, "responsive":[{"breakpoint":767, "settings":{ "arrows": false}}]}'>
+                                                        <ul class="products-list default-product-style biolife-carousel nav-none-after-1k2 nav-center" data-slick='{"rows":1,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":1, "responsive":[{"breakpoint":767, "settings":{ "arrows": false}}]}'>
                                                             <li class="product-item">
                                                                 <div class="contain-product none-overlay">
                                                                     <div class="product-thumb">
                                                                         <a href="#" class="link-to-product">
-                                                                            <img src="assets/images/products/p-08.jpg"
-                                                                                alt="dd" width="270"
-                                                                                height="270"
-                                                                                class="product-thumnail">
+                                                                            <img src="assets/images/products/p-08.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                                                         </a>
                                                                     </div>
                                                                     <div class="info">
                                                                         <b class="categories">Fresh Fruit</b>
-                                                                        <h4 class="product-title"><a href="#"
-                                                                                class="pr-name">National Fresh
+                                                                        <h4 class="product-title"><a href="#" class="pr-name">National Fresh
                                                                                 Fruit</a></h4>
                                                                         <div class="price">
-                                                                            <ins><span class="price-amount"><span
-                                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                                            <del><span class="price-amount"><span
-                                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -632,22 +544,16 @@
                                                                 <div class="contain-product none-overlay">
                                                                     <div class="product-thumb">
                                                                         <a href="#" class="link-to-product">
-                                                                            <img src="assets/images/products/p-11.jpg"
-                                                                                alt="dd" width="270"
-                                                                                height="270"
-                                                                                class="product-thumnail">
+                                                                            <img src="assets/images/products/p-11.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                                                         </a>
                                                                     </div>
                                                                     <div class="info">
                                                                         <b class="categories">Fresh Fruit</b>
-                                                                        <h4 class="product-title"><a href="#"
-                                                                                class="pr-name">National Fresh
+                                                                        <h4 class="product-title"><a href="#" class="pr-name">National Fresh
                                                                                 Fruit</a></h4>
                                                                         <div class="price">
-                                                                            <ins><span class="price-amount"><span
-                                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                                            <del><span class="price-amount"><span
-                                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -656,22 +562,16 @@
                                                                 <div class="contain-product none-overlay">
                                                                     <div class="product-thumb">
                                                                         <a href="#" class="link-to-product">
-                                                                            <img src="assets/images/products/p-15.jpg"
-                                                                                alt="dd" width="270"
-                                                                                height="270"
-                                                                                class="product-thumnail">
+                                                                            <img src="assets/images/products/p-15.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                                                         </a>
                                                                     </div>
                                                                     <div class="info">
                                                                         <b class="categories">Fresh Fruit</b>
-                                                                        <h4 class="product-title"><a href="#"
-                                                                                class="pr-name">National Fresh
+                                                                        <h4 class="product-title"><a href="#" class="pr-name">National Fresh
                                                                                 Fruit</a></h4>
                                                                         <div class="price">
-                                                                            <ins><span class="price-amount"><span
-                                                                                        class="currencySymbol">£</span>85.00</span></ins>
-                                                                            <del><span class="price-amount"><span
-                                                                                        class="currencySymbol">£</span>95.00</span></del>
+                                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
+                                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -684,22 +584,10 @@
                                                 <div class="col-lg-12 col-md-12 col-sm-12 md-margin-top-9">
                                                     <div class="biolife-brand">
                                                         <ul class="brands">
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/brand-organic.png"
-                                                                        width="161" height="136"
-                                                                        alt="organic"></a></li>
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/brand-explore.png"
-                                                                        width="160" height="136"
-                                                                        alt="explore"></a></li>
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/brand-organic-2.png"
-                                                                        width="99" height="136"
-                                                                        alt="organic 2"></a></li>
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/brand-eco-teas.png"
-                                                                        width="164" height="136"
-                                                                        alt="eco teas"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/brand-organic.png" width="161" height="136" alt="organic"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/brand-explore.png" width="160" height="136" alt="explore"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/brand-organic-2.png" width="99" height="136" alt="organic 2"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/brand-eco-teas.png" width="164" height="136" alt="eco teas"></a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -708,13 +596,11 @@
                                     </div>
                                 </li>
                                 <li class="menu-item menu-item-has-children has-megamenu">
-                                    <a href="#" class="menu-name" data-title="Vegetables"><i
-                                            class="biolife-icon icon-broccoli-1"></i>Vegetables</a>
+                                    <a href="#" class="menu-name" data-title="Vegetables"><i class="biolife-icon icon-broccoli-1"></i>Vegetables</a>
                                     <div class="wrap-megamenu lg-width-900 md-width-640 background-mega-01">
                                         <div class="mega-content">
                                             <div class="row">
-                                                <div
-                                                    class="col-lg-3 col-md-4 col-sm-12 xs-margin-bottom-25 md-margin-bottom-0">
+                                                <div class="col-lg-3 col-md-4 col-sm-12 xs-margin-bottom-25 md-margin-bottom-0">
                                                     <div class="wrap-custom-menu vertical-menu">
                                                         <h4 class="menu-title">Vegetables</h4>
                                                         <ul class="menu">
@@ -730,8 +616,7 @@
                                                         </ul>
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="col-lg-4 col-md-4 col-sm-12 lg-padding-left-23 xs-margin-bottom-25 md-margin-bottom-0">
+                                                <div class="col-lg-4 col-md-4 col-sm-12 lg-padding-left-23 xs-margin-bottom-25 md-margin-bottom-0">
                                                     <div class="wrap-custom-menu vertical-menu">
                                                         <h4 class="menu-title">Gifts</h4>
                                                         <ul class="menu">
@@ -748,27 +633,14 @@
                                                         </ul>
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="col-lg-5 col-md-4 col-sm-12 lg-padding-left-57 md-margin-bottom-30">
+                                                <div class="col-lg-5 col-md-4 col-sm-12 lg-padding-left-57 md-margin-bottom-30">
                                                     <div class="biolife-brand vertical md-boder-left-30">
                                                         <h4 class="menu-title">Hot Brand</h4>
                                                         <ul class="brands">
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/v-brand-organic.png"
-                                                                        width="167" height="74"
-                                                                        alt="organic"></a></li>
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/v-brand-explore.png"
-                                                                        width="167" height="72"
-                                                                        alt="explore"></a></li>
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/v-brand-organic-2.png"
-                                                                        width="167" height="99"
-                                                                        alt="organic 2"></a></li>
-                                                            <li><a href="#"><img
-                                                                        src="assets/images/megamenu/v-brand-eco-teas.png"
-                                                                        width="167" height="67"
-                                                                        alt="eco teas"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/v-brand-organic.png" width="167" height="74" alt="organic"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/v-brand-explore.png" width="167" height="72" alt="explore"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/v-brand-organic-2.png" width="167" height="99" alt="organic 2"></a></li>
+                                                            <li><a href="#"><img src="assets/images/megamenu/v-brand-eco-teas.png" width="167" height="67" alt="eco teas"></a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -777,13 +649,11 @@
                                     </div>
                                 </li>
                                 <li class="menu-item menu-item-has-children has-megamenu">
-                                    <a href="#" class="menu-name" data-title="Fresh Berries"><i
-                                            class="biolife-icon icon-grape"></i>Fresh Berries</a>
+                                    <a href="#" class="menu-name" data-title="Fresh Berries"><i class="biolife-icon icon-grape"></i>Fresh Berries</a>
                                     <div class="wrap-megamenu lg-width-900 md-width-640 background-mega-02">
                                         <div class="mega-content">
                                             <div class="row">
-                                                <div
-                                                    class="col-lg-3 col-md-4 sm-col-12 md-margin-bottom-83 xs-margin-bottom-25">
+                                                <div class="col-lg-3 col-md-4 sm-col-12 md-margin-bottom-83 xs-margin-bottom-25">
                                                     <div class="wrap-custom-menu vertical-menu">
                                                         <h4 class="menu-title">Fresh Berries</h4>
                                                         <ul class="menu">
@@ -799,8 +669,7 @@
                                                         </ul>
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="col-lg-3 col-md-4 sm-col-12 lg-padding-left-23 xs-margin-bottom-36px md-margin-bottom-0">
+                                                <div class="col-lg-3 col-md-4 sm-col-12 lg-padding-left-23 xs-margin-bottom-36px md-margin-bottom-0">
                                                     <div class="wrap-custom-menu vertical-menu">
                                                         <h4 class="menu-title">Gifts</h4>
                                                         <ul class="menu">
@@ -817,8 +686,7 @@
                                                         </ul>
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="col-lg-6 col-md-4 sm-col-12 lg-padding-left-25 md-padding-top-55">
+                                                <div class="col-lg-6 col-md-4 sm-col-12 lg-padding-left-25 md-padding-top-55">
                                                     <div class="biolife-banner layout-01">
                                                         <h3 class="top-title">Farm Fresh</h3>
                                                         <p class="content"> All the Lorem Ipsum generators on the
@@ -830,17 +698,14 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li class="menu-item"><a href="#" class="menu-name"
-                                        data-title="Ocean Foods"><i class="biolife-icon icon-fish"></i>Ocean
+                                <li class="menu-item"><a href="#" class="menu-name" data-title="Ocean Foods"><i class="biolife-icon icon-fish"></i>Ocean
                                         Foods</a></li>
                                 <li class="menu-item menu-item-has-children has-child">
-                                    <a href="#" class="menu-name" data-title="Butter & Eggs"><i
-                                            class="biolife-icon icon-honey"></i>Butter & Eggs</a>
+                                    <a href="#" class="menu-name" data-title="Butter & Eggs"><i class="biolife-icon icon-honey"></i>Butter & Eggs</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item"><a href="#">Omelettes</a></li>
                                         <li class="menu-item"><a href="#">Breakfast Scrambles</a></li>
-                                        <li class="menu-item menu-item-has-children has-child"><a href="#"
-                                                class="menu-name" data-title="Eggs & other considerations">Eggs &
+                                        <li class="menu-item menu-item-has-children has-child"><a href="#" class="menu-name" data-title="Eggs & other considerations">Eggs &
                                                 other considerations</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="#">Classic Breakfast</a></li>
@@ -856,8 +721,7 @@
                                             </ul>
                                         </li>
                                         <li class="menu-item"><a href="#">Griddle</a></li>
-                                        <li class="menu-item menu-item-has-children has-child"><a href="#"
-                                                class="menu-name" data-title="Sides & Extras">Sides & Extras</a>
+                                        <li class="menu-item menu-item-has-children has-child"><a href="#" class="menu-name" data-title="Sides & Extras">Sides & Extras</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="#">Breakfast Burrito</a></li>
                                                 <li class="menu-item"><a href="#">Crab Cake Benedict</a>
@@ -873,18 +737,12 @@
                                         <li class="menu-item"><a href="#">Seasonal Fruit Plate</a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-item"><a href="#" class="menu-title"><i
-                                            class="biolife-icon icon-fast-food"></i>Fastfood</a></li>
-                                <li class="menu-item"><a href="#" class="menu-title"><i
-                                            class="biolife-icon icon-beef"></i>Fresh Meat</a></li>
-                                <li class="menu-item"><a href="#" class="menu-title"><i
-                                            class="biolife-icon icon-onions"></i>Fresh Onion</a></li>
-                                <li class="menu-item"><a href="#" class="menu-title"><i
-                                            class="biolife-icon icon-avocado"></i>Papaya & Crisps</a></li>
-                                <li class="menu-item"><a href="#" class="menu-title"><i
-                                            class="biolife-icon icon-contain"></i>Oatmeal</a></li>
-                                <li class="menu-item"><a href="#" class="menu-title"><i
-                                            class="biolife-icon icon-fresh-juice"></i>Fresh Bananas & Plantains</a>
+                                <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-fast-food"></i>Fastfood</a></li>
+                                <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-beef"></i>Fresh Meat</a></li>
+                                <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-onions"></i>Fresh Onion</a></li>
+                                <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-avocado"></i>Papaya & Crisps</a></li>
+                                <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-contain"></i>Oatmeal</a></li>
+                                <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-fresh-juice"></i>Fresh Bananas & Plantains</a>
                                 </li>
                             </ul>
                         </div>
@@ -893,8 +751,7 @@
                 <div class="col-lg-9 col-md-8 padding-top-2px">
                     <div class="header-search-bar layout-01">
                         <form action="#" class="form-search" name="desktop-seacrh" method="get">
-                            <input type="text" name="s" class="input-text" value=""
-                                placeholder="Search here...">
+                            <input type="text" name="s" class="input-text" value="" placeholder="Search here...">
                             <select name="category">
                                 <option value="-1" selected>All Categories</option>
                                 <option value="vegetables">Vegetables</option>
@@ -907,13 +764,11 @@
                                 <option value="papaya_crisps">Papaya & Crisps</option>
                                 <option value="oatmeal">Oatmeal</option>
                             </select>
-                            <button type="submit" class="btn-submit"><i
-                                    class="biolife-icon icon-search"></i></button>
+                            <button type="submit" class="btn-submit"><i class="biolife-icon icon-search"></i></button>
                         </form>
                     </div>
                     <div class="live-info">
-                        <p class="telephone"><i class="fa fa-phone" aria-hidden="true"></i><b
-                                class="phone-number">(+900) 123 456 7891</b></p>
+                        <p class="telephone"><i class="fa fa-phone" aria-hidden="true"></i><b class="phone-number">(+900) 123 456 7892</b></p>
                         <p class="working-time">Mon-Fri: 8:30am-7:30pm; Sat-Sun: 9:30am-4:30pm</p>
                     </div>
                 </div>
